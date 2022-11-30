@@ -4,5 +4,12 @@
 
 ```bash
 
-    git init
+    $ git init
+```
+
+- Verificação do estado do repositório
+
+```bash
+
+   $ git status
 ```
