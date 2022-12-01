@@ -19,3 +19,8 @@
 ```bash
     $ git commit -m "MESSAGE"
 ```
+
+- Visualizar as diferenças existentes entre dois arquivos
+```bash
+    $ git diff
+```
